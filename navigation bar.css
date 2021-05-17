@@ -1,0 +1,104 @@
+*
+{
+    background-color:white;
+}
+
+
+#a{
+    color: rgb(141, 136, 136);
+    font-size: 30px;
+    cursor: pointer;
+    position: fixed;
+    left: 5px;
+    top:09px ;
+
+}
+#a:hover{
+    color:black;
+}
+#searchstring{
+    position: fixed;
+    top:16px;
+    width:190px;
+    height:30px;
+    border-radius:4px;
+    position: fixed;
+    left:35px;
+}
+.material-icons{
+    color:rgb(141, 136, 136); 
+    position: fixed;
+    top:15px;
+    left: 230px;
+    cursor: pointer;  
+}
+.material-icons:hover{
+    color: black;
+}
+.gg-bell{
+    color: rgb(141, 136, 136);
+    position: fixed;
+    left:975px ;
+    top:26px;
+    cursor: pointer;
+}
+.gg-bell:hover{
+    color: black;
+}
+
+#flag{
+    position:fixed;
+    top:20px;
+    right: 255px;
+    font-size:15px;
+    cursor: pointer;
+}
+#docu{
+    position: fixed;
+    right: 185px;
+    top: 18px;
+    border:black;
+    cursor: pointer;
+    font-size:17px;
+}
+#q{
+    position: fixed;
+    right:150px;
+    top:18px;
+    color:rgb(141, 136, 136); 
+    cursor: pointer;
+}
+#q:hover{
+    color:black ;
+}
+#fire{
+    position: fixed;
+    right: 125px;
+    top: 21px;
+    font-size:17px ;
+    color:rgb(141, 136, 136);
+    cursor: pointer; 
+}
+#fire:hover{
+    color:red;
+}
+.btn{
+    position: fixed;
+    right: 20px;
+    top: 14px;
+    color: rgb(255, 255, 255);
+    background-color:rgb(31, 105, 202);
+    transition:0.3s;
+    font-family:Verdana,Geneva, Tahoma, sans-serif ;
+}
+.btn:hover{
+    color: white;
+}
+.box{
+    top: -8px;
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    background-color: #ffffff;
+    box-shadow: 0px 30px 1px rgb(0 0 0 / 8%);
+}
